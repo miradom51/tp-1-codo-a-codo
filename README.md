@@ -112,7 +112,7 @@
   <a name="contacto"></a>
   ## 📩 Contacto
   Si deseas contactarte conmigo:
-  <a href="www.linkedin.com/in/cristian-miranda-b86467240" target="_blank">
+  <a href="https://www.linkedin.com/in/cristian-miranda-b86467240" target="_blank">
   <img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/linkedin.svg" alt="Github" height="30" />
   </a>
   <a href="mailto:miradom51@gmail.com" target="_blank">
