@@ -16,7 +16,7 @@
     </table>
   </div>
 
-  🔗 **Página muestra:** //////////////pagina/////////
+  🔗 **Página muestra:** https://miradom51.github.io/tp-1-codo-a-codo/
 
 <!-- ÍNDICE -->
   <a name="indice"></a>
