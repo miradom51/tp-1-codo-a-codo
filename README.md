@@ -1,6 +1,6 @@
 <!-- TÍTULO Y DESCRIPCIÓN -->
   <a name="ir-arriba"></a>
-  # 💻 Conf Bs As
+  # 🖥️ TP-1  Conf Bs As
 
   Trabajo Integrador #1 del módulo Frontend para el curso **Codo a Codo Java Full Stack 2023**
   <div align="center">
@@ -9,10 +9,8 @@
         <td>
         Consigna: Replica realizada con HTML, Bootstrap y Css
         </td>
-      </tr>
-      tr>
         <td>
-           <a href="https://github.com/miradom51/tp-1-codo-a-codo/blob/main/assets/img/carousel.png" width="" 500px>
+           <img src="https://github.com/miradom51/tp-1-codo-a-codo/assets/120273781/b66c5e20-6327-48dc-ad5d-1198b5d2c488" width="400px">
         </td>
       </tr>
     </table>
@@ -53,18 +51,12 @@
     <a href="https://getbootstrap.com/" target="_blank">
       <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a>
-    <a href="https://www.javascript.com/" target="_blank">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    </a>
-    <a href="https://github.com/" target="_blank">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    </a>
    </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
-<!-- INSTALACIÓN -->
+<!-- INSTALACION -->
   <a name="instalacion"></a>
-  ## 🔧 Instalación
+  ## 🔧 Clonar Proyecto
   Si deseas correr la web en un entorno local debes tener en cuenta lo siguiente: 
   1. Clona el repositorio utilizando GIT o descargando el archivo ZIP:
 
@@ -78,7 +70,6 @@
     <li>Carousel</li>
     <li>Cards</li>
     <li>Formulario</li>
-    <li>Comprar ticket</li>
   </ul>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
