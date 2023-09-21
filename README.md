@@ -9,9 +9,6 @@
         <td>
         Consigna: Replica realizada con HTML, Bootstrap y Css
         </td>
-        <td>
-          <img src="https://raw.githubusercontent.com/joana-coll/Conf-Bs-As/main/img/readme-carousel.jpg" width="400px">
-        </td>
       </tr>
     </table>
   </div>
@@ -31,7 +28,6 @@
         <li><a href="#carousel">Carousel</a></li>
         <li><a href="#cards">Cards</a></li>
         <li><a href="#formulario">Formulario</a></li>
-        <li><a href="#comprar-ticket">Comprar ticket</a></li>
        </ul>
     </li>
     <li><a href="#desarrollado">Desarrollado por...</a>
@@ -67,7 +63,7 @@
   Si deseas correr la web en un entorno local debes tener en cuenta lo siguiente: 
   1. Clona el repositorio utilizando GIT o descargando el archivo ZIP:
 
-      //////////////pagina///////////////
+      https://github.com/miradom51/tp-1-codo-a-codo
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
 <!-- SECCIONES DE LA WEB -->
@@ -83,7 +79,7 @@
 
 ### Carousel
   <p align="center">
-    <img src="https://raw.githubusercontent.com/joana-coll/Conf-Bs-As/main/img/readme-carousel.jpg" width="800px">
+    <a href="https://github.com/miradom51/tp-1-codo-a-codo/assets/120273781/ec34024c-b8a9-455a-8a3c-7f609f60bc86" width="800px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
