@@ -7,7 +7,7 @@
     <table>
       <tr>
         <td>
-        Consigna: Replica realizada con HTML, Bootstrap y JavaScript
+        Consigna: Replica realizada con HTML, Bootstrap y Css
         </td>
         <td>
           <img src="https://raw.githubusercontent.com/joana-coll/Conf-Bs-As/main/img/readme-carousel.jpg" width="400px">
