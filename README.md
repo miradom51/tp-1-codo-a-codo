@@ -121,8 +121,8 @@
 <!-- AGRADECIMIENTO -->
   <a name="agradecimiento"></a>
   ## 👍 Agradecimiento
-  Gracias por leer hasta aquí, espero que el proyecto te sea útil. No tiene Licencia pero podes usarlo como gustes mientras sigas fomentando el código libre y ayudando a otros pares. 
+  Gracias por leer hasta aquí. 
   
-  ¡Que tengas un lindo día!
+  ¡Muchas gracias y que tengas un hermoso dia!
   
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
