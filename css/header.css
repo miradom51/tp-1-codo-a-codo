@@ -1,0 +1,12 @@
+header {
+    background-color: var(--bg-navbar-top);
+
+    & .container-fluid {
+        width: 90%;
+    }
+
+
+    & img {
+        width: 130px;
+    }
+}

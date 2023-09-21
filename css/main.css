@@ -1,0 +1,49 @@
+/* CSS del section main */
+
+main {
+
+    #carouselExampleSlidesOnly {
+
+        & .img-ba {
+            height: 610px;
+            object-fit: cover;
+            filter: brightness(55%);
+        }
+
+        & .carousel-caption {
+            padding-bottom: 10em;
+            margin-left: 20em;
+
+
+            .btn-comprar {
+                background-color: var(--color-btn-light);
+            }
+
+            .btn-comprar:hover {
+                background-color: var(--color-btn-dark);
+            }
+        }
+    }
+
+
+    .form-section {
+
+        & .title-form {
+
+            & a {
+                text-decoration-style: dotted;
+            }
+        }
+
+        & form {
+
+            & button {
+                background-color: var(--color-btn-light);
+            }
+
+            & button:hover {
+                background-color: var(--color-btn-dark);
+            }
+        }
+    }
+}

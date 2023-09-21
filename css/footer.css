@@ -1,0 +1,11 @@
+footer {
+    background-color: var(--bg-navbar-bottom);
+
+    .row {
+        width: 75%;
+
+        & a {
+            text-decoration: none;
+        }
+    }
+}
