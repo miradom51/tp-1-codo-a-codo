@@ -104,7 +104,7 @@
 <!-- DESARROLLADO POR -->
   <a name="desarrollado"></a>
   ## 👨‍💻 Desarrollado por...
-  * **Cristian Miranda** - /////pagina git////////
+  * **Cristian Miranda** - https://github.com/miradom51
   
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
