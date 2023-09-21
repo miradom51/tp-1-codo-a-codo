@@ -69,25 +69,32 @@
   <ul>
     <li>Carousel</li>
     <li>Cards</li>
+    <li>Crousel-2</li>
     <li>Formulario</li>
   </ul>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 ### Carousel
   <p align="center">
-    <a href="https://github.com/miradom51/tp-1-codo-a-codo/blob/main/assets/img/carousel.png" width="800px">
+    <img src="https://github.com/miradom51/tp-1-codo-a-codo/assets/120273781/b66c5e20-6327-48dc-ad5d-1198b5d2c488" width="800px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 ### Cards
   <p align="center">
-    <img src="https://raw.githubusercontent.com/joana-coll/Conf-Bs-As/main/img/readme-cards.jpg" width="800px">
+    <img src="https://github.com/miradom51/tp-1-codo-a-codo/assets/120273781/b7fc3217-e6c4-43ec-94ff-04e58ba995b4" width="800px">
+  </p>
+  <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
+
+### Carousel-2
+  <p align="center">
+    <img src="https://github.com/miradom51/tp-1-codo-a-codo/assets/120273781/a59d92f9-32b0-49be-be9e-c5104b29be63" width="800px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
 ### Formulario
   <p align="center">
-    <img src="https://raw.githubusercontent.com/joana-coll/Conf-Bs-As/main/img/readme-form.jpg" width="800px">
+    <img src="https://github.com/miradom51/tp-1-codo-a-codo/assets/120273781/0bc1b573-9044-444b-9b1c-303967576a73" width="800px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
@@ -113,7 +120,7 @@
 
 <!-- AGRADECIMIENTO -->
   <a name="agradecimiento"></a>
-  ## ❤️ Agradecimiento
+  ## 👍 Agradecimiento
   Gracias por leer hasta aquí, espero que el proyecto te sea útil. No tiene Licencia pero podes usarlo como gustes mientras sigas fomentando el código libre y ayudando a otros pares. 
   
   ¡Que tengas un lindo día!
