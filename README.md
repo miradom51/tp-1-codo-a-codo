@@ -114,7 +114,7 @@
  <img src="https://github.com/miradom51/tp-1-codo-a-codo/assets/120273781/c5fed8f5-b0a6-436b-bc3d-eb1da908a919" height="30" />
   </a>
   <a href="mailto:miradom51@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/envelope-solid.svg" alt="Github" height="30" />
+  <img src="https://github.com/miradom51/tp-1-codo-a-codo/assets/120273781/0f347676-5219-41a9-b741-02026e8c05c2" height="30" />
   </a>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
