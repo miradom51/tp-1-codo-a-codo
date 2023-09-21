@@ -113,7 +113,7 @@
   ## 📩 Contacto
   Si deseas contactarte conmigo:
   <a href="https://linkedin.com/in/cristian-miranda-b86467240" target="_blank">
-  [image](https://github.com/miradom51/tp-1-codo-a-codo/assets/120273781/8dcba8e3-1c1c-4569-9682-3d691e7ca977)
+ <img src="https://github.com/miradom51/tp-1-codo-a-codo/assets/120273781/c5fed8f5-b0a6-436b-bc3d-eb1da908a919" height="30" />
   </a>
   <a href="mailto:miradom51@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/joana-coll/joana-coll/1ce466f12c925e1e39ab93b44ff985f102c9aed8/icons/envelope-solid.svg" alt="Github" height="30" />
