@@ -12,7 +12,7 @@
       </tr>
       tr>
         <td>
-           <a href="">
+           <a href="https://github.com/miradom51/tp-1-codo-a-codo/blob/main/assets/img/carousel.png" width="" 500px>
         </td>
       </tr>
     </table>
@@ -84,7 +84,7 @@
 
 ### Carousel
   <p align="center">
-    <a href="https://github.com/miradom51/tp-1-codo-a-codo/assets/120273781/ec34024c-b8a9-455a-8a3c-7f609f60bc86" width="800px">
+    <a href="https://github.com/miradom51/tp-1-codo-a-codo/blob/main/assets/img/carousel.png" width="800px">
   </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
 
