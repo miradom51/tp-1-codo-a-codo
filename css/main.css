@@ -11,8 +11,8 @@ main {
         }
 
         & .carousel-caption {
-            padding-bottom: 10em;
-            margin-left: 20em;
+            padding-bottom: 15%;
+            margin-left: 25%;
 
 
             .btn-comprar {
