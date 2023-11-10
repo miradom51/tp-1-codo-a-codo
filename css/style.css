@@ -1,6 +1,13 @@
-/* Archivo principal css utilizando la anidación nativa nesting */
+/* STYLES GRAL */
 
-@import "./root.css";
-@import "./header.css";
-@import "./main.css";
-@import "./footer.css";
+@import "root.css";
+@import "header.css";
+@import "main.css";
+@import "footer.css";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
