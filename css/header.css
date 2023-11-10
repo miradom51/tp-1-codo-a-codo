@@ -1,12 +1,13 @@
+/* SECTION HEADER */
+
 header {
-    background-color: var(--bg-navbar-top);
+    background-color: var(--color-bg-dark);
 
     & .container-fluid {
         width: 90%;
     }
 
-
     & img {
-        width: 130px;
+        width: 90px;
     }
 }

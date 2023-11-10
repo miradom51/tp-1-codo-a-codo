@@ -1,6 +1,8 @@
+/* VARIABLES DE COLOR */
 :root {
-    --bg-navbar-top: #353a40;
-    --bg-navbar-bottom: #1c4054;
-    --color-btn-light: rgb(92, 212, 32);
-    --color-btn-dark: rgb(9, 72, 9);
+    --color-bg-dark: #353a40;
+    --color-btn-comprar: #20f415;
+    --color-btn-enviar: #96c93e;
+    --color-bg-footerLight: #1d3a4a;
+    --color-bg-footerDark: rgba(0, 0, 0, 0.2);
 }

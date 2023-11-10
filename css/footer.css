@@ -1,11 +1,14 @@
+/* SECTION FOOTER */
+
 footer {
-    background-color: var(--bg-navbar-bottom);
+    background: var(--color-bg-footerLight);
 
-    .row {
-        width: 75%;
+    & a {
+        color: #fff;
+        text-decoration: none;
+    }
 
-        & a {
-            text-decoration: none;
-        }
+    & .bg-copyright {
+        background-color: var(--color-bg-footerDark);
     }
 }
